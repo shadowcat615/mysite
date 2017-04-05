@@ -123,5 +123,5 @@ USE_TZ = True
 STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]  #추가
 
 #파일 업로드 기능에 필요
-MEDIA_URL = '/media/'
-MEDIA_ROOT = os.root.join(BASE_DIR, 'media')
+#MEDIA_URL = '/media/'
+#MEDIA_ROOT = os.root.join(BASE_DIR, 'media')
